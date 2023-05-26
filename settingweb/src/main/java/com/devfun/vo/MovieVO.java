@@ -1,5 +1,9 @@
 package com.devfun.vo;
 
+//**중간 Quiz**
+//
+//- 현재 [MovieVO.java](http://movievo.java) 파일을 작성해 놓치 않았습니다.
+//- 현재까지의 코드들을 보고 MovieVO.java를 작성해봅니다.
 public class MovieVO {
 	private int movie_id;
 	private String movie_name;
